@@ -157,4 +157,8 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 
 ---
 
+<<<<<<< HEAD
 **Happy Gardening! 🌿**
+=======
+**Happy Gardening! 🌿**
+>>>>>>> 06e103f2ed648880ca20609d1e0c2d77e959e38b
