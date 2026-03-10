@@ -147,21 +147,3 @@ Predict disease from image upload.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- Plant disease dataset providers
-- Hugging Face for transformers library
-- FastAPI and React communities
-- Open source contributors
-
-## 📞 Support
-
-If you encounter any issues or have questions, please open an issue on GitHub.
-
----
-
-<<<<<<< HEAD
-**Happy Gardening! 🌿**
-=======
-**Happy Gardening! 🌿**
->>>>>>> 06e103f2ed648880ca20609d1e0c2d77e959e38b
