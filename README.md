@@ -63,6 +63,9 @@ This project consists of a full-stack application with:
 
 4. **Download models (if not present):**
    The models should be in the `models/` directory. If missing, download them from the appropriate sources.
+   ```bash
+   python download_mobilenet_model.py
+   ```
 
 5. **Run the backend server:**
    ```bash
