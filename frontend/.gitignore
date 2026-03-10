@@ -1,0 +1,56 @@
+# Node dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production build
+/build
+/dist
+out/
+
+# Miscellaneous
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+npm-error.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Cache
+.eslintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.code-workspace
+
+# OS specific
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Package manager locks (optional - uncomment if you want to track them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Compiled files
+*.wasm
+*.wasm.js
